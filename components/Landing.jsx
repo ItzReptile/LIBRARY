@@ -11,7 +11,7 @@ const Landing = () => {
             <h1>Americas Most Awarded Online libary platform</h1>
             <h2>Find Your Dream book with <span className="purple">libary</span></h2>
             <Link to="#features">
-              <button className="btn">Browse books</button>
+              <button  className="btn">Browse books</button>
             </Link>
           </div>
           <figure className="header__img--wrapper">
